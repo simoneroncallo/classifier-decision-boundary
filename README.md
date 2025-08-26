@@ -4,6 +4,6 @@ This repository contains a code for plotting the decision boundary of a 2D binar
 
 <a target="_blank" href="https://colab.research.google.com/github/simoneroncallo/classifier-decision-boundary/blob/main/decisionBoundary.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a> <br>
+</a><br><br>
 
 <img src="https://github.com/simoneroncallo/classifier-decision-boundary/blob/main/images/expressivity.gif" width="200" height="200" />
